@@ -1,0 +1,60 @@
+/* You may use the following selectors, but it's not required. */
+
+body {
+	font font-family: Open Sans;
+    margin: 0 auto;
+	text-align: center;
+	/*background-color: pink;*/
+	background-image: url("https://i.ytimg.com/vi/HwgBQNRzMVU/maxresdefault.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-position: center;
+}
+
+/*.stuff {
+	display: inline-block;
+  width: 800px;
+  height: 700px;
+  margin: 1em;
+  background-color:#54EBF2;
+}*/
+
+.list-container {
+	display: inline-block;
+  width: 300px;
+  height: 200px;
+  margin: 1em;
+  background-color:#54EBF2;
+}
+
+.list-container2 {
+	display: inline-block;
+  width: 300px;
+  height: 200px;
+  margin: 1em;
+  background-color:#54EBF2;
+}
+
+h1 {
+	text-transform: uppercase;
+	padding: 20px 20px 20px 20px;
+}
+
+h3 {
+	text-transform: uppercase;
+}
+
+a {
+	text-decoration: none;
+}
+
+#link {
+	width:200px;
+	background-color:#54EBF2;
+	font-color:#FFF;
+	font-weight: bold;
+	padding: 20px 25px;
+	margin: 30px auto 2px;
+
+
+}
